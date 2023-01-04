@@ -1,6 +1,6 @@
 # API-
 
- FastAPI
+FastAPI
 transformers  
 pydantic
 BaseModel
