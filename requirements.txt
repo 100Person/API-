@@ -1,6 +1,2 @@
-
-FastAPI
-transformers  
-pydantic
-Uvicorn
-torch
+streamlit
+tensorflow-cpu
